@@ -1,0 +1,12 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /cmp2/Herexamen/tjorvano-cmp2/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /cmp2/Herexamen/tjorvano-cmp2/index.php [L]
+</IfModule>
+
+# END WordPress
