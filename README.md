@@ -16,7 +16,4 @@ Opleiding: Bachelor in de grafische en digitale media
 
 Produce
 
-## Opleidingsinstelling Arteveldehogeschool"# CMPII.local" 
-"# CMPII.local" 
-# cmp2.local
-# cmp2.local
+## Opleidingsinstelling Arteveldehogeschool
